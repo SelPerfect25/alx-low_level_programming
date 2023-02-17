@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
  * main - main block
- * return: 0
+ *
+ * Description: "The betty c programming"
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
